@@ -1,4 +1,5 @@
 Function ValidateInput() As Boolean
+    
     Dim EmptyInputsFound As Boolean
 
     Dim Ctrl As Control
